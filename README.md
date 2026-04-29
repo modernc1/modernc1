@@ -32,7 +32,7 @@
 ---
 
 ## 📫 Contact Me  
-- 📧 **Email:** [Modernc12@gmail.com](mailto:your-email@example.com)  
+- 📧 **Email:** [Modernc12@gmail.com](mailto:Modernc12@gmail.com)  
 - 💼 **LinkedIn:** [www.linkedin.com/in/mohamed-aymen-172149287](#)  
 - 🌐 **Portfolio:** [https://modernc1.github.io/Portfolio](#)  
 
